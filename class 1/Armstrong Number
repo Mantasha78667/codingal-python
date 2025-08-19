@@ -1,0 +1,4 @@
+        for x in range(1, 2000):
+    rem = x % 17
+    if rem == 0:
+        print(x)
